@@ -24,4 +24,9 @@ $("input[type='text']").keypress(function(event){
 
 $(".fa-plus").click(function(){
 	$("input[type='text']").fadeToggle()
+<<<<<<< HEAD
 });
+
+=======
+});
+>>>>>>> 061f12301fd148c94ab27678f6d3a64abb1e0b11
